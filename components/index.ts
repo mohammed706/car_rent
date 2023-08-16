@@ -8,6 +8,7 @@ import SearchManufacture from './SearchManufacture'
 import CarCard from './CarCard'
 import CarDetails from './CarDetails'
 import SearchButton from './SearchButton'
+import ShowMore from './ShowMore'
 export {
     Hero,
     CustomButton,
@@ -18,5 +19,6 @@ export {
     CarCard,
     SearchManufacture,
     SearchButton,
+    ShowMore,
     CarDetails
 }
