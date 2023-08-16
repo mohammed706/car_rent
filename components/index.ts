@@ -7,6 +7,7 @@ import Footer from './Footer'
 import SearchManufacture from './SearchManufacture'
 import CarCard from './CarCard'
 import CarDetails from './CarDetails'
+import SearchButton from './SearchButton'
 export {
     Hero,
     CustomButton,
@@ -16,5 +17,6 @@ export {
     Footer,
     CarCard,
     SearchManufacture,
+    SearchButton,
     CarDetails
 }
